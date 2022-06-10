@@ -1,0 +1,30 @@
+C:\Users\georg\Desktop\Programming\matrix\matrix\bin\Debug\net6.0\matrix.exe
+C:\Users\georg\Desktop\Programming\matrix\matrix\bin\Debug\net6.0\matrix.deps.json
+C:\Users\georg\Desktop\Programming\matrix\matrix\bin\Debug\net6.0\matrix.runtimeconfig.json
+C:\Users\georg\Desktop\Programming\matrix\matrix\bin\Debug\net6.0\matrix.dll
+C:\Users\georg\Desktop\Programming\matrix\matrix\bin\Debug\net6.0\matrix.pdb
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfo.cs
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.dll
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\refint\matrix.dll
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.pdb
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\matrix.genruntimeconfig.cache
+C:\Users\georg\Desktop\Programming\matrix\matrix\obj\Debug\net6.0\ref\matrix.dll
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\bin\Debug\net6.0\matrix.exe
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\bin\Debug\net6.0\matrix.deps.json
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\bin\Debug\net6.0\matrix.runtimeconfig.json
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\bin\Debug\net6.0\matrix.dll
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\bin\Debug\net6.0\matrix.pdb
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.csproj.AssemblyReference.cache
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfoInputs.cache
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfo.cs
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.dll
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\refint\matrix.dll
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.pdb
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\matrix.genruntimeconfig.cache
+C:\Users\georgimakarti\Desktop\C# Projects\2dmatrix-main\2dmatrix-main\matrix\matrix\obj\Debug\net6.0\ref\matrix.dll
